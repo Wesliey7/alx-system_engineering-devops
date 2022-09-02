@@ -1,1 +1,1 @@
-script that adds executive permission to the owner
+a script that adds execution permissions to the owner
