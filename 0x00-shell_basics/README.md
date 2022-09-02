@@ -1,1 +1,1 @@
-script that copies all html files
+script that moves all files beginning with an uppercase letter
