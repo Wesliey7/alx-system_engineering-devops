@@ -1,1 +1,1 @@
-create a symbol link in the current working directory
+script that copies all html files
