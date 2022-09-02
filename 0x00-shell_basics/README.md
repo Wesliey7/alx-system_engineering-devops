@@ -1,1 +1,1 @@
-script that prints type of file
+create a symbol link in the current working directory
