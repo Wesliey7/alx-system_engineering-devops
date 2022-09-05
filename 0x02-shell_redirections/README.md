@@ -1,1 +1,1 @@
-a script that prints hello world
+display contents of the file
