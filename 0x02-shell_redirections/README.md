@@ -1,1 +1,1 @@
-a script that creates a file named best school
+Write a shell script that creates a file named exactly
