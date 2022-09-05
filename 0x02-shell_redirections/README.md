@@ -1,1 +1,1 @@
-a script that displays the third line of the file
+a script that creates a file named best school
