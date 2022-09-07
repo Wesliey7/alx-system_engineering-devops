@@ -1,1 +1,1 @@
-shell script that creates a file
+Create a script that decodes acrostics that use the first letter of each line.
